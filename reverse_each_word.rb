@@ -4,6 +4,6 @@ array = sentence1.split
 array.collect do |word|
   word.reverse
   #binding.pry
-end .join
+end.join
 
 end
